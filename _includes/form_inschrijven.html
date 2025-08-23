@@ -1,0 +1,39 @@
+<section id="inschrijven" class="form-section">
+  <h2>Inschrijven of interesse</h2>
+
+  <form action="https://formspree.io/f/mvgqjggp" method="POST" class="simple-form">
+    <div>
+      <label><input type="radio" name="interest" value="Inschrijven" required checked> Ik wil mij inschrijven</label><br>
+      <label><input type="radio" name="interest" value="Later deelnemen"> De data passen niet, maar ik wil later deelnemen</label><br>
+      <label><input type="radio" name="interest" value="Hou me op de hoogte"> Hou me via e-mail op de hoogte van toekomstige data en modules</label>
+    </div>
+
+    <div>
+      <label for="name">Naam</label><br>
+      <input type="text" name="name" id="name" required>
+    </div>
+
+    <div>
+      <label for="email">E-mailadres</label><br>
+      <input type="email" name="email" id="email" required>
+    </div>
+
+    <div>
+      <label for="phone">Telefoonnummer (optioneel)</label><br>
+      <input type="tel" name="phone" id="phone" placeholder="+32 ...">
+    </div>
+
+    <div>
+      <label for="message">Bericht (optioneel)</label><br>
+      <textarea name="message" id="message" rows="4" placeholder="Je bericht..."></textarea>
+    </div>
+
+    <!-- Formspree options -->
+    <input type="hidden" name="_subject" value="Nieuwe inschrijving / interesse via De Meervoudige Man">
+    <input type="hidden" name="_language" value="nl">
+    <input type="text" name="_gotcha" style="display:none" aria-hidden="true">
+
+    <button type="submit">Versturen</button>
+  </form>
+</section>
+
