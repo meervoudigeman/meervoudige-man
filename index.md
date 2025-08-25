@@ -91,6 +91,8 @@ Deze cursus is er voor mannen die:
 <div class="alt-block" markdown="1">
 ## Getuigenissen
 > Ik ervaar Tom als iemand die voortdurend exploreert om technieken te doorgronden en te verbeteren, om daarna zijn kennis en ervaring mbt self pleasure graag en gul te delen met anderen. (MD)
+
+> Tom is een gedreven begeleider, ernstig maar verrassend speels. Hij brengt je op een veilige, en betrokken manier in contact met je onontdekte diepere verlangens. (TC)
 </div>
 
 <div class="alt-block" markdown="1">
