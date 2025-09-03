@@ -96,6 +96,17 @@ Deze cursus is er voor mannen die:
 </div>
 
 <div class="alt-block" markdown="1">
+## FAQ
+
+**Q: Gaan we naakt tijdens de sessies?**  
+A: Nee, dat soort oefeningen doen we enkel thuis.  
+
+**Q: Maakt het uit of ik een vaste partner heb?**
+A: Nee, deze module is helemaal gericht op jezelf trainen, zonder dat je afhankelijk bent van een partner. Meer nog, je wordt meer onafhankelijk door de training te doen, in die zin dat je voor jezelf de keuze kan maken of je seksualteit met iemand anders wilt beleven, zonder dat er dwang op zit. 
+
+</div>
+
+<div class="alt-block" markdown="1">
 ## Praktisch
 - **Start:** maandag **13 oktober 2025**  
 - **Vervolgdata:** 27 okt • 10 nov • 24 nov • 8 dec • 22 dec (tweewekelijks)  
